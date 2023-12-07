@@ -1,0 +1,11 @@
+.filterform{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.searchInput{
+    outline: none;
+    padding: 5px 10px;
+    width: 30%;
+}
